@@ -1,0 +1,18 @@
+.abtmain{
+    margin: 20vh 15vw;
+    border: 1px solid black;
+}
+
+.abtmain:hover{
+    border-color: rgb(255, 104, 15);
+}
+
+.abtpara{
+    margin: 3vh 2vw;
+    line-height: 1.7em;
+    font-size: 1.1em;
+}
+
+.abtmain hr{
+    margin: 0 2vw;
+}

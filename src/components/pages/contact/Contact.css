@@ -1,0 +1,37 @@
+.d-flex{
+    display: flex;
+}
+
+.main-container{
+    justify-content: center;
+}
+
+label{
+    width: 7vw;
+
+}
+
+#mail,#num{
+    width: 35.2vw;
+}
+
+#heading{
+    margin: 5vh 0 4vh 0;
+}
+
+.contactFormm div{
+    margin: 0 0 3vh 0;
+}
+
+.contactFormm div input,textarea{
+    font-size: 17px;
+}
+
+.contactFormm div button{
+    background: rgb(255, 104, 15);
+    color: white;
+    border: 1px solid rgb(255, 104, 15);
+    padding: 1vh 2vw;
+    border-radius: 3px;
+    cursor: pointer;
+}

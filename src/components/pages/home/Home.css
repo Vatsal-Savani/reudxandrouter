@@ -1,0 +1,36 @@
+.showbar p{
+    display: flex;
+    justify-content: center;
+}
+
+.showbar{
+    margin-top: 12vh;
+}
+
+.bigp{
+    font-size: xx-large;
+    font-weight: 900;
+}
+
+.downtxt{
+    font-weight: 350;
+    font-size: large;
+}
+
+.details p img{
+    width: 88.9vw;
+    height: 80vh;
+    overflow:hidden;
+    margin-left: 5vw;
+    border-radius: 15px;
+}
+
+.details{
+    margin-top:8vh;
+}
+
+.footer{
+    display: flex;
+    margin: 5vh 0;
+    justify-content: center;
+}

@@ -1,0 +1,22 @@
+.dpImage img{
+    height: 40vh;
+    width: 40vh;
+    display: flex;
+    margin: 3vh 0 0 40vw;
+    border-top-right-radius: 78px;
+    border-bottom-left-radius: 78px;
+}
+
+.dpImage button{
+    margin: 2vh 0 0 45.5vw;
+    cursor: pointer;
+    background-color: rgb(255, 104, 15);
+    color: white;
+    padding: 1vh 1vw;
+    border: 1px solid rgb(255, 104, 15);
+    border-radius: 4px;
+}
+
+.dpImage{
+    margin-top: 10vh;
+}

@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.maindiv{
+    /* display: flex; */
+    height: 99vh;
+    width: 99vw;
+    /* text-align: center; */
+    background-image: url("../../../images/loginbg.jpg");
+    background-size: cover;
+}
+
+.minidiv{
+    padding: 30vh 36vw 0 41vw;
+}
+
+.headinglogin{
+    margin-bottom: 4vh;
+}
+
+.pass ,.mail{
+    width: 20vw;
+    height: 3vh;
+    font-size: 15px;
+    background: transparent;
+    padding: 1vh 1vw;
+}
+
+.mb-1{
+    margin-bottom: 1vh;
+}
+  
+.brdr{
+      border: 1px solid transparent;;
+      border-radius: 4px;
+}
+
+.brdr:hover{
+   border-color: white;
+}
+
+.bttnn{
+    background: transparent;
+    height: 4vh;
+    width: 5vw;
+    margin-top: 2vh;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.homebtninlogin{
+    float: right;
+    margin-right: 3vw;
+}
+
+.txt-white{
+    color: white;
+}
